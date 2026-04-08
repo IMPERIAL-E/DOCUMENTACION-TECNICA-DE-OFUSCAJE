@@ -1,5 +1,4 @@
-````markdown
-# DOCUMENTACIÓN TÉCNICA: Cómo Ofuscar y Minificar una Página Web Profesional
+## DOCUMENTACIÓN TÉCNICA: Cómo Ofuscar y Minificar una Página Web Profesional
 
 * **Inicio y fin:** 23/3/26 – 24/3/26.
 * **Título del Proyecto:** Ofuscación y Despliegue de Alta Seguridad
@@ -24,6 +23,7 @@ Antes de iniciar cualquier proceso de ofuscación, es **obligatorio** que el pro
 
 A continuación, un ejemplo de lo máximo permitido a nivel de scripts por documento HTML antes de ofuscar:
 
+````markdown
 ```html
 <script type="text/javascript">
   function googleTranslateElementInit() {
