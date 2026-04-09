@@ -372,4 +372,4 @@ Obtuve una compresión del HTML llevando toda sintaxis a una sola línea infinit
 ---
 FIN DE LA DOCUMENTACIÓN
 GRACIAS POR LLEGAR HASTA AQUÍ ESTE DOCUMENTO FUE CRADO POR: (IMPERIAL-E).
-```
+
